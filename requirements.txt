@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+python-docx
+openpyxl
+python-pptx
+huggingface_hub
+transformers
+torch
